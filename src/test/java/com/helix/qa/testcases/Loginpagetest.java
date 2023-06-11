@@ -38,6 +38,7 @@ public class Loginpagetest extends TestBase {
 			Thread.sleep(5000);
 			//agent.addagents();
 			contact.addConatcts();
+			System.out.print("Sucessfully added");
 			
 		} catch (Exception e) {
 			// TODO: handle exception
